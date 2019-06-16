@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/database/redisdatabase.py" line="40" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7283d797-1d83-4e65-9f40-3bdd5ac335c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/IM/QT_README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/libs/x64/vs10_md/jsoncpp.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/libs/x64/vs10_md/jsoncpp_d.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/libs/x64/vs10_mt/jsoncpp.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/libs/x64/vs10_mt/jsoncpp_d.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/libs/x64/vs13_md/jsoncpp.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/libs/x64/vs13_md/jsoncpp_d.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/libs/x64/vs13_mt/jsoncpp.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/libs/x64/vs13_mt/jsoncpp_d.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/libs/x86/vs10_md/jsoncpp.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/libs/x86/vs10_md/jsoncpp_d.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/libs/x86/vs10_mt/jsoncpp.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/libs/x86/vs10_mt/jsoncpp_d.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/libs/x86/vs13_md/jsoncpp.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/libs/x86/vs13_md/jsoncpp_d.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/libs/x86/vs13_mt/jsoncpp.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/libs/x86/vs13_mt/jsoncpp_d.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/api/nim_client.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/api/nim_data_sync.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/api/nim_device.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/api/nim_doc_trans.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/api/nim_friend.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/api/nim_global.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/api/nim_msglog.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/api/nim_nos.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/api/nim_plugin_in.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/api/nim_robot.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/api/nim_rts.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/api/nim_session.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/api/nim_subscribe_event.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/api/nim_sysmsg.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/api/nim_talk.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/api/nim_team.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/api/nim_tools.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/api/nim_user.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/api/nim_vchat.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/include/nim_client_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/include/nim_data_sync_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/include/nim_device_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/include/nim_doc_trans_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/include/nim_friend_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/include/nim_global_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/include/nim_msglog_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/include/nim_nos_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/include/nim_plugin_in_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/include/nim_res_code_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/include/nim_robot_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/include/nim_rts_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/include/nim_session_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/include/nim_signaling_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/include/nim_subscribe_event_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/include/nim_sysmsg_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/include/nim_talk_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/include/nim_team_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/include/nim_tools_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/include/nim_user_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/include/nim_vchat_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/nim_sdk_api.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/nim_sdk_dll.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/nim_sdk_util.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/util/nim_base_types.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/util/nim_build_config.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_c_sdk/util/stdbool.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_c_sdk/api/nim_chatroom.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_c_sdk/include/nim_chatroom_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_c_sdk/include/nim_res_code_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_c_sdk/nim_chatroom_sdk_dll.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_c_sdk/nim_chatroom_sdk_util.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_c_sdk/util/nim_base_types.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_c_sdk/util/nim_build_config.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_c_sdk/util/stdbool.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_cpp/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_cpp/api/nim_chatroom_cpp.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_cpp/api/nim_chatroom_cpp.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_cpp/callback_proxy.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_cpp/helper/nim_chatroom_helper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_cpp/helper/nim_chatroom_helper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_cpp/nim_chatroom_cpp_api.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_cpp/nim_chatroom_cpp_api.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_cpp/nim_chatroom_sdk_cpp_lib_vs2013.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_cpp/nim_chatroom_sdk_cpp_lib_vs2013.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_cpp/nim_chatroom_sdk_cpp_wrapper_dll.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_cpp/nim_chatroom_sdk_cpp_wrapper_dll.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_cpp/nim_chatroom_sdk_cpp_wrapper_dll.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_cpp/util/nim_chatroom_json_util.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_cpp/util/nim_chatroom_json_util.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_cpp/util/nim_chatroom_sdk_defines.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_cpp/util/nim_chatroom_sdk_util.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_cpp/util/nim_chatroom_sdk_util.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_cpp/util/nim_chatroom_string_util.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_chatroom_cpp/util/nim_chatroom_string_util.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_client.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_client.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_data_sync.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_data_sync.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_doc_trans.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_doc_trans.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_friend.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_friend.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_global.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_global.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_msglog.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_msglog.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_nos.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_nos.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_plugin_in.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_plugin_in.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_robot.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_robot.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_rts.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_rts.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_session.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_session.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_signaling.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_signaling.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_subscribe_event.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_subscribe_event.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_sysmsg.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_sysmsg.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_talk.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_talk.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_team.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_team.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_tool.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_tool.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_user.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_user.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_vchat.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/api/nim_cpp_vchat.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/callback_proxy.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_client_helper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_client_helper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_doc_trans_helper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_doc_trans_helper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_friend_helper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_friend_helper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_msg_helper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_msg_helper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_msglog_helper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_msglog_helper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_nos_helper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_nos_helper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_robot_helper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_robot_helper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_session_helper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_session_helper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_signaling_helper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_signaling_helper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_subscribe_event_helper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_subscribe_event_helper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_sysmsg_helper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_sysmsg_helper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_talk_helper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_talk_helper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_team_helper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_team_helper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_tool_helper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_tool_helper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_user_helper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/helper/nim_user_helper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/nim_cpp_api.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/nim_cpp_api.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/nim_sdk_cpp_lib_vs2010.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/nim_sdk_cpp_lib_vs2010.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/nim_sdk_cpp_lib_vs2013.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/nim_sdk_cpp_lib_vs2013.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/nim_sdk_cpp_wrapper_dll.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/nim_sdk_cpp_wrapper_dll.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/nim_sdk_cpp_wrapper_dll.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/util/nim_json_util.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/util/nim_json_util.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/util/nim_sdk_defines.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/util/nim_sdk_util.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/util/nim_sdk_util.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/util/nim_string_util.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_sdk_cpp/util/nim_string_util.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_tools_c_sdk/audio/nim_audio.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_tools_c_sdk/audio/nim_audio_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_tools_c_sdk/http/nim_tools_http.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_tools_c_sdk/http/nim_tools_http_def.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_tools_cpp_sdk/nim_audio_cpp/nim_audio_cpp.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_tools_cpp_sdk/nim_audio_cpp/nim_audio_cpp.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_tools_cpp_sdk/nim_http_cpp/nim_tools_http_cpp.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/nim_tools_cpp_sdk/nim_http_cpp/nim_tools_http_cpp.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/qt_58_vs2013_demo/.vs/qt_58_vs2013_demo/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/qt_58_vs2013_demo/.vs/qt_58_vs2013_demo/v16/Browse.VC.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/qt_58_vs2013_demo/.vs/qt_58_vs2013_demo/v16/Solution.VC.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/qt_58_vs2013_demo/.vs/qt_58_vs2013_demo/v16/Solution.VC.db-shm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/qt_58_vs2013_demo/.vs/qt_58_vs2013_demo/v16/Solution.VC.db-wal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/qt_58_vs2013_demo/.vs/qt_58_vs2013_demo/v16/ipch/AutoPCH/746fe5da8b6ac3aa/MAIN.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/qt_58_vs2013_demo/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/qt_58_vs2013_demo/mainwindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/qt_58_vs2013_demo/mainwindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/qt_58_vs2013_demo/mainwindow.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/qt_58_vs2013_demo/qt_58_vs2013_demo.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/qt_58_vs2013_demo/qt_58_vs2013_demo.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/qt_58_vs2013_demo/qt_58_vs2013_demo.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/convert_utf/convert_utf.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/convert_utf/convert_utf.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/convert_utf/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/.clang-format" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/AUTHORS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/CMakeSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/NEWS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/SConstruct" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/amalgamate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/dev.makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/devtools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/devtools/agent_vmw7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/devtools/agent_vmxp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/devtools/antglob.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/devtools/batchbuild.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/devtools/fixeol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/devtools/licenseupdater.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/devtools/tarball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/doc/doxyfile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/doc/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/doc/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/doc/jsoncpp.dox" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/doc/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/doc/roadmap.dox" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/doc/web_doxyfile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/doxybuild.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/include/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/include/json/assertions.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/include/json/autolink.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/include/json/config.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/include/json/features.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/include/json/forwards.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/include/json/json.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/include/json/reader.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/include/json/value.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/include/json/version.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/include/json/writer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/makerelease.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/pkg-config/jsoncpp.pc.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/scons-tools/globtool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/scons-tools/srcdist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/scons-tools/substinfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/scons-tools/targz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/src/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/src/jsontestrunner/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/src/jsontestrunner/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/src/jsontestrunner/sconscript" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/src/lib_json/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/src/lib_json/json_batchallocator.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/src/lib_json/json_internalarray.inl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/src/lib_json/json_internalmap.inl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/src/lib_json/json_reader.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/src/lib_json/json_tool.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/src/lib_json/json_value.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/src/lib_json/json_valueiterator.inl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/src/lib_json/json_writer.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/src/lib_json/sconscript" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/src/lib_json/version.h.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/src/test_lib_json/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/src/test_lib_json/jsontest.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/src/test_lib_json/jsontest.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/src/test_lib_json/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/src/test_lib_json/sconscript" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/cleantests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/fail_test_array_01.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_array_01.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_array_01.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_array_02.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_array_02.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_array_03.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_array_03.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_array_04.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_array_04.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_array_05.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_array_05.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_array_06.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_array_06.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_array_07.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_array_07.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_basic_01.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_basic_01.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_basic_02.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_basic_02.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_basic_03.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_basic_03.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_basic_04.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_basic_04.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_basic_05.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_basic_05.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_basic_06.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_basic_06.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_basic_07.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_basic_07.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_basic_08.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_basic_08.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_basic_09.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_basic_09.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_comment_00.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_comment_00.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_comment_01.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_comment_01.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_comment_02.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_comment_02.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_complex_01.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_complex_01.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_integer_01.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_integer_01.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_integer_02.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_integer_02.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_integer_03.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_integer_03.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_integer_04.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_integer_04.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_integer_05.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_integer_05.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_integer_06_64bits.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_integer_06_64bits.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_integer_07_64bits.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_integer_07_64bits.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_integer_08_64bits.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_integer_08_64bits.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_large_01.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_large_01.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_object_01.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_object_01.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_object_02.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_object_02.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_object_03.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_object_03.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_object_04.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_object_04.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_preserve_comment_01.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_preserve_comment_01.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_real_01.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_real_01.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_real_02.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_real_02.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_real_03.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_real_03.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_real_04.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_real_04.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_real_05.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_real_05.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_real_06.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_real_06.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_real_07.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_real_07.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_real_08.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_real_08.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_real_09.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_real_09.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_real_10.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_real_10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_real_11.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_real_11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_real_12.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_real_12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_string_01.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_string_01.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_string_02.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_string_02.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_string_03.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_string_03.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_string_04.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_string_04.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_string_05.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_string_05.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_string_unicode_01.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_string_unicode_01.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_string_unicode_02.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_string_unicode_02.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_string_unicode_03.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_string_unicode_03.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_string_unicode_04.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_string_unicode_04.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_string_unicode_05.expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/data/test_string_unicode_05.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/generate_expected.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail14.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail15.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail16.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail17.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail18.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail19.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail20.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail21.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail22.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail23.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail24.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail25.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail26.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail27.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail28.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail29.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail30.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail31.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail32.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail33.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/fail9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/pass1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/pass2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/pass3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/jsonchecker/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/pyjsontestrunner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/runjsontests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/test/rununittests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/jsoncpp/version.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/third_party/vs2013.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/win32_vs2013_demo/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/win32_vs2013_demo/Resource.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/win32_vs2013_demo/small.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/win32_vs2013_demo/stdafx.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/win32_vs2013_demo/stdafx.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/win32_vs2013_demo/targetver.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/win32_vs2013_demo/win32.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/win32_vs2013_demo/win32.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/win32_vs2013_demo/win32.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/win32_vs2013_demo/win32.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/win32_vs2013_demo/win32.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/win32_vs2013_demo/win32.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/win32_vs2013_demo/win32.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/win32_vs2013_demo/win32_dll_wrapper.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/win32_vs2013_demo/win32_dll_wrapper.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/win32_vs2013_demo/win32_dll_wrapper.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/msvcp120.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/msvcp120d.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/msvcr120.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/msvcr120d.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/nim.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/nim_audio.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/nim_chatroom.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/nim_conf/ver_ctrl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/nim_tools_http.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/nrtc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/nrtc_audio_process.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/api-ms-win-core-file-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/api-ms-win-core-file-l2-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/api-ms-win-core-localization-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/api-ms-win-core-processthreads-l1-1-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/api-ms-win-core-synch-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/api-ms-win-core-timezone-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/api-ms-win-core-xstate-l2-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/api-ms-win-crt-conio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/api-ms-win-crt-convert-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/api-ms-win-crt-environment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/api-ms-win-crt-filesystem-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/api-ms-win-crt-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/api-ms-win-crt-locale-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/api-ms-win-crt-math-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/api-ms-win-crt-multibyte-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/api-ms-win-crt-private-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/api-ms-win-crt-process-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/api-ms-win-crt-runtime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/api-ms-win-crt-stdio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/api-ms-win-crt-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/api-ms-win-crt-time-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/api-ms-win-crt-utility-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/api-ms-win-eventing-provider-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/concrt140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/msvcp140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/msvcp140_1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/msvcp140_2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/ucrtbase.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/vccorlib140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x64_dlls/redist_packages/vcruntime140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/msvcp120.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/msvcr120.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/nim.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/nim_audio.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/nim_audio_hook.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/nim_chatroom.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/nim_conf/ver_ctrl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/nim_tools_http.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/nrtc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/nrtc_audio_process.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/api-ms-win-core-file-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/api-ms-win-core-file-l2-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/api-ms-win-core-localization-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/api-ms-win-core-processthreads-l1-1-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/api-ms-win-core-synch-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/api-ms-win-core-timezone-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/api-ms-win-core-xstate-l2-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/api-ms-win-crt-conio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/api-ms-win-crt-convert-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/api-ms-win-crt-environment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/api-ms-win-crt-filesystem-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/api-ms-win-crt-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/api-ms-win-crt-locale-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/api-ms-win-crt-math-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/api-ms-win-crt-multibyte-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/api-ms-win-crt-private-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/api-ms-win-crt-process-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/api-ms-win-crt-runtime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/api-ms-win-crt-stdio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/api-ms-win-crt-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/api-ms-win-crt-time-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/api-ms-win-crt-utility-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/api-ms-win-eventing-provider-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/apisetschema.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/concrt140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/msvcp140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/msvcp140_1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/msvcp140_2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/ucrtbase.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/vccorlib140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/x86_dlls/redist_packages/vcruntime140.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/statistic.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/statistic.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/redisdatabase.py" beforeDir="false" afterPath="$PROJECT_DIR$/database/redisdatabase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logic/LoginMsgHandler.py" beforeDir="false" afterPath="$PROJECT_DIR$/logic/LoginMsgHandler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logic/SyncMsgHandler.py" beforeDir="false" afterPath="$PROJECT_DIR$/logic/SyncMsgHandler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logic/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/logic/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/net/MsgManger.py" beforeDir="false" afterPath="$PROJECT_DIR$/net/MsgManger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/net/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/net/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proto/DropPropMsg.py" beforeDir="false" afterPath="$PROJECT_DIR$/proto/DropPropMsg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proto/LoginMsg.py" beforeDir="false" afterPath="$PROJECT_DIR$/proto/LoginMsg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proto/SyncMsg.py" beforeDir="false" afterPath="$PROJECT_DIR$/proto/SyncMsg.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/miyu_server$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1559454315084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/miyu_server$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1560680583939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IM" />
+    <SUITE FILE_PATH="coverage/miyu_server$text__1_.coverage" NAME="text (1) Coverage Results" MODIFIED="1559444346690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proto" />
+    <SUITE FILE_PATH="coverage/miyu_server$text.coverage" NAME="text Coverage Results" MODIFIED="1559121600958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/logic" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IM/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <folding>
+                <element signature="e#53#66#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>msgManger</find>
+      <find>GetValue</find>
+      <find>MsgSyncAttack</find>
+      <find>MsgSyncLocation</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/utils/interfaces.py" />
+        <option value="$PROJECT_DIR$/netconnect/connection.py" />
+        <option value="$PROJECT_DIR$/configs/config.py" />
+        <option value="$PROJECT_DIR$/configs/calltype.py" />
+        <option value="$PROJECT_DIR$/NetworkServer/netconnection.py" />
+        <option value="$PROJECT_DIR$/net/connection.py" />
+        <option value="$PROJECT_DIR$/logic/puzzle.py" />
+        <option value="$PROJECT_DIR$/logic/user.py" />
+        <option value="$PROJECT_DIR$/logic/text.py" />
+        <option value="$PROJECT_DIR$/net/ServerEvent.py" />
+        <option value="$PROJECT_DIR$/logic/prop.py" />
+        <option value="$PROJECT_DIR$/logic/MsgBroadcastHandler.py" />
+        <option value="$PROJECT_DIR$/database/database.py" />
+        <option value="$PROJECT_DIR$/database/mysqldatabase.py" />
+        <option value="$PROJECT_DIR$/database/redisdatabase.py" />
+        <option value="$PROJECT_DIR$/logic/LoginMsgHandler.py" />
+        <option value="$PROJECT_DIR$/logic/player.py" />
+        <option value="$PROJECT_DIR$/proto/SyncMsg.py" />
+        <option value="$PROJECT_DIR$/proto/LoginMsg.py" />
+        <option value="$PROJECT_DIR$/proto/text.py" />
+        <option value="$PROJECT_DIR$/proto/DropPropMsg.py" />
+        <option value="$PROJECT_DIR$/logic/SyncMsgHandler.py" />
+        <option value="$PROJECT_DIR$/net/MsgManger.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/net/server.py" />
+        <option value="$PROJECT_DIR$/IM/__init__.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="172" />
+    <option name="y" value="66" />
+    <option name="width" value="1340" />
+    <option name="height" value="804" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="miyu_server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miyu_server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miyu_server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miyu_server" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miyu_server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miyu_server" type="462c0819:PsiDirectoryNode" />
+              <item name="IM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miyu_server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miyu_server" type="462c0819:PsiDirectoryNode" />
+              <item name="IM" type="462c0819:PsiDirectoryNode" />
+              <item name="x64_dlls" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Firefly" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.statistic.project.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/IM" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/NetworkServer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.__init__ (1)">
+    <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="miyu_server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IM" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IM/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="miyu_server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="text (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="miyu_server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proto" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proto/text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="text" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="miyu_server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/logic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logic/text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.__init__ (1)" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.text (1)" />
+        <item itemvalue="Python.text" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7283d797-1d83-4e65-9f40-3bdd5ac335c7" name="Default Changelist" comment="" />
+      <created>1559019867674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559019867674</updated>
+      <workItem from="1559019869036" duration="14315000" />
+      <workItem from="1559098495973" duration="24105000" />
+      <workItem from="1559186994209" duration="4769000" />
+      <workItem from="1559305813908" duration="3549000" />
+      <workItem from="1559360933690" duration="1196000" />
+      <workItem from="1559440795111" duration="9167000" />
+      <workItem from="1559453563699" duration="2008000" />
+      <workItem from="1559456143691" duration="1065000" />
+      <workItem from="1560708567757" duration="911000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="61085000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="35" width="1920" height="1045" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22019334" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32918552" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32918552" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39932126" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32918552" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053704" side_tool="true" weight="0.3295711" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946293" weight="0.32918552" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Statistic" order="13" weight="0.32918552" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/utils/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/utils/interfaces.py" />
+    <entry file="file://$PROJECT_DIR$/NetworkServer/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/NetworkServer/netconnect/connection.py" />
+    <entry file="file://$PROJECT_DIR$/configs/calltype.py" />
+    <entry file="file://$PROJECT_DIR$/NetworkServer/netconnection.py" />
+    <entry file="file://$PROJECT_DIR$/configs/config.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/socket.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="543" column="41" lean-forward="true" selection-start-line="543" selection-start-column="41" selection-end-line="543" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="204" column="8" selection-start-line="204" selection-start-column="8" selection-end-line="204" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="162" column="11" lean-forward="true" selection-start-line="162" selection-start-column="11" selection-end-line="162" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logic/text.py" />
+    <entry file="file://$PROJECT_DIR$/logic/puzzle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logic/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logic/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logic/prop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-623">
+          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logic/MsgBroadcastHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proto/text.py" />
+    <entry file="file://$PROJECT_DIR$/proto/DropPropMsg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="734">
+          <caret line="310" column="52" selection-start-line="310" selection-start-column="52" selection-end-line="310" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proto/LoginMsg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/mysqldatabase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <element signature="e#53#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/net/ServerEvent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="91" column="12" lean-forward="true" selection-start-line="91" selection-start-column="12" selection-end-line="91" selection-end-column="12" />
+          <folding>
+            <element signature="e#54#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/net/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="66" column="30" lean-forward="true" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logic/player.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1860">
+          <caret line="62" column="17" lean-forward="true" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+          <folding>
+            <element signature="e#51#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/net/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding>
+            <element signature="e#52#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/redisdatabase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <element signature="e#53#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logic/LoginMsgHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proto/SyncMsg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/net/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/net/MsgManger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
+          <folding>
+            <element signature="e#53#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logic/SyncMsgHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="e#53#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="e#51#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IM/nim_c_sdk/nim_sdk_dll.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="20" column="51" lean-forward="true" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IM/nim_c_sdk/api/nim_client.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5520">
+          <caret line="184" column="60" selection-start-line="184" selection-start-column="60" selection-end-line="184" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IM/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IM/QT_README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IM/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="e#53#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
